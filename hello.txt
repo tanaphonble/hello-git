@@ -2,11 +2,7 @@ Hello
 2 3 4 5
 
 
-this is a txt
-
-
-
-zxc vcx 
+this is a txt file
 
 
 hellooooooo!!!!!
